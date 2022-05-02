@@ -17,3 +17,4 @@ git clone -b luci --single-branch https://github.com/xiaorouji/openwrt-passwall.
 git clone https://github.com/xiaorouji/openwrt-passwall2.git
 git clone https://github.com/messense/aliyundrive-webdav.git
 git clone https://github.com/luochongjun/istore.git
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git
